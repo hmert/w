@@ -12,3 +12,5 @@ https://github.com/RadLikeWhoa/Countable
 https://github.com/usablica/widearea
 
 http://mailru.github.io/FileAPI/
+
+https://github.com/ccampbell/mousetrap
