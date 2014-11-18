@@ -1,0 +1,26 @@
+{
+  "name": "w",
+  "version": "0.0.1",
+  "homepage": "http://hmert.com/w/",
+  "authors": [
+    "Hüseyin Mert <huseyinin@gmail.com>"
+  ],
+  "description": "Writer @ Browser",
+  "main": "w.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "writer",
+    "rte",
+    "editor"
+  ],
+  "license": "by-nc-sa/4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
