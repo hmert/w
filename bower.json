@@ -1,26 +1,17 @@
 {
-  "name": "w",
-  "version": "0.0.1",
-  "homepage": "http://hmert.com/w/",
-  "authors": [
-    "Hüseyin Mert <huseyinin@gmail.com>"
-  ],
-  "description": "Writer @ Browser",
-  "main": "w.js",
-  "moduleType": [
-    "node"
-  ],
-  "keywords": [
-    "writer",
-    "rte",
-    "editor"
-  ],
-  "license": "by-nc-sa/4.0",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "W",
+    "version": "1.0.0",
+    "authors": [
+        "Hüseyin Mert <huseyinin@gmail.com>"
+    ],
+    "description": "Write to browser",
+    "main": "w.js",
+    "keywords": [
+        "editor"
+    ],
+    "license": "by-nc-sa/4.0",
+    "homepage": "https://github.com/hmert/w",
+    "ignore": [
+        "node_modules"
+    ]
 }
